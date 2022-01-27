@@ -31,11 +31,17 @@
     "start": "webpack serve --config webpack.config.dev.js",
     "build": "webpack --config webpack.config.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/platzi/curso-webpack-react.git"
+  },
   "keywords": [
-    "Javascript",
-    "css",
-    "html"
+    "Javascript"
   ],
-  "author": "Wilmer Monterrozo",
-  "license": "MIT"
+  "author": "Oscar Barajas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/platzi/curso-webpack-react/issues"
+  },
+  "homepage": "https://github.com/platzi/curso-webpack-react#readme"
 }

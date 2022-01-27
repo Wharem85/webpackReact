@@ -11,7 +11,7 @@ module.exports = {
 	resolve: {
 		extensions: ['.js', '.jsx']
 	},
-	modo: 'development',
+	mode: "development",
 	module: {
 		rules: [
 			{
@@ -51,7 +51,7 @@ module.exports = {
 			directory: path.join(__dirname, 'dist'),
 		},
 		compress: true,
-		port: 3006,
+		port: 3008,
 		open: true,
 	}
 }
