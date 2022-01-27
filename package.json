@@ -32,8 +32,10 @@
     "build": "webpack --config webpack.config.js"
   },
   "keywords": [
-    "Javascript"
+    "Javascript",
+    "css",
+    "html"
   ],
-  "author": "Oscar Barajas",
+  "author": "Wilmer Monterrozo",
   "license": "MIT"
 }
